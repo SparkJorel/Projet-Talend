@@ -1,0 +1,76 @@
+[ {
+  "baseItem" : {
+    "id" : "_cJ9I0NTeEe-_C6C9Q2gNCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_bhMgsNTTEe-_C6C9Q2gNCA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kNgmQNQzEe-yiOF0Ha_bVQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_D103kNTTEe-_C6C9Q2gNCA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_affiliation",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_annee",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_article",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_auteur",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_pays",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_rediger",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - select_ville",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - affiliation",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - article",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - auteur",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - pays",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - rediger",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Gsc8INQzEe-yiOF0Ha_bVQ - ville",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

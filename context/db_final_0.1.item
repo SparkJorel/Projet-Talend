@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_bhZVANTTEe-_C6C9Q2gNCA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_bhZVAdTTEe-_C6C9Q2gNCA" comment="" name="db_final_Password" prompt="db_final_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:7Hj/XRHGQ/JGu3TYH57LPmHPlSp3WZAMCHWmYkwDfFk="/>
+  <contextParameter xmi:id="_bhZVAtTTEe-_C6C9Q2gNCA" comment="" name="db_final_Database" prompt="db_final_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="db_final"/>
+  <contextParameter xmi:id="_bhZVA9TTEe-_C6C9Q2gNCA" comment="" name="db_final_AdditionalParams" prompt="db_final_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_bhZVBNTTEe-_C6C9Q2gNCA" comment="" name="db_final_Login" prompt="db_final_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_bhZVBdTTEe-_C6C9Q2gNCA" comment="" name="db_final_Server" prompt="db_final_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_bhZVBtTTEe-_C6C9Q2gNCA" comment="" name="db_final_Port" prompt="db_final_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_bhZVB9TTEe-_C6C9Q2gNCA" comment="" name="db_final_Schema" prompt="db_final_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>
